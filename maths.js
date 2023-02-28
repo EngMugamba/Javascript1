@@ -4,7 +4,6 @@
     console.log("You choose number:\n",num);
     console.log("You Deposited:\n",Depo);
 
-
     var x = Math.floor((Math.random() * 20));
 if(num == x)
 {
